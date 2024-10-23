@@ -1,0 +1,18 @@
+fileFormatVersion: 2
+guid: 1be97b0777ecbdb4c9094d6e21d58177
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences: []
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 229354
+  packageName: Hand painted - Parallax Background 1
+  packageVersion: 1.0.2
+  assetPath: Assets/Yoge/ParallaxBackground 1/Scripts/CameraMovement.cs
+  uploadId: 606277

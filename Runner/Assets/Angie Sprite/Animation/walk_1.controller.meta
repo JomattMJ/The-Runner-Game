@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 262e3176b76b9c242b70c19e58089b94
+timeCreated: 1476194580
+licenseType: Store
+NativeFormatImporter:
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 80192
+  packageName: Angie - Fashion 2D Female Sprites + Animations - Complete Pack
+  packageVersion: 1.0.0
+  assetPath: Assets/Angie Sprite/Animation/walk_1.controller
+  uploadId: 155261
